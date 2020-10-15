@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 **Here's a short introduction about myself**
+<img width="50%" align="right" alt="jpkmiller's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jpkmiller&show_icons=true&hide_border=true" />
 
 - 🔭 I’m currently working on an extension for chrome. It works with the [Overleaf LaTeX Editor](https://overleaf.com) and displays a bunch of synonyms
 - 🌱 I’m currently learning JavaScript and in near future Type- and NativeScript
