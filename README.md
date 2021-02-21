@@ -2,6 +2,8 @@
 
 **Here's a short introduction about myself**
 <table>
+  <th>About me and my Projects!</th>
+  <th>Stats</th>
   <tr>
     <td>
       <ul>
@@ -14,9 +16,12 @@
     </td>
   </tr>
   <tr>
-    <td />
     <td>
-      <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpkmiller&hide_border=true" />
+      <a href="https://github.com/localzon-e/website-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=localzon-e&repo=website-frontend" /></a>
+      <a href="https://github.com/Krakelo/Tierpark-re"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krakelo&repo=tierpark-re" /></a>
+    </td>
+    <td>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpkmiller&hide_border=true" />
     </td>
   </tr>
 </table>
