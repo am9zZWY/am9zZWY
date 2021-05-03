@@ -21,7 +21,7 @@
       <a href="https://github.com/Krakelo/Tierpark-re"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krakelo&repo=tierpark-re" /></a>
     </td>
     <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpkmiller&hide_border=true" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpkmiller&langs_count=8&hide_border=true" />
     </td>
   </tr>
 </table>
