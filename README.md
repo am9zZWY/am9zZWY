@@ -9,7 +9,7 @@
 
 To get a better picture of my skills here are all the languages I have:
 
-![About me](https://github-readme-stats.vercel.app/api/top-langs?username=jpkmiller&langs_count=8&layout=compact&hide=css,scss&hide_border=true)
+![About me](https://github-readme-stats.vercel.app/api/top-langs?username=jpkmiller&langs_count=8&layout=compact&hide=css,scss,assembly,makefile&hide_border=true)
 
 
 
