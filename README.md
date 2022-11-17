@@ -1,4 +1,4 @@
-## Hi there 👋 I am Josef
+## Hi there 👋
 
 **Here's a short introduction about myself**
 
