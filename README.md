@@ -13,7 +13,3 @@ I'm **Josef**, a software engineer at [Vector Informatik](https://vector.com). H
 </p>
 
 Looking forward to connecting and collaborating with fellow enthusiasts! 🚀
-
----
-
-This version makes use of bold text for emphasis and aligns your stats neatly for better visual appeal.
